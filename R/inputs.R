@@ -92,7 +92,7 @@ Autocomplete.shinyInput <- input("Autocomplete")
 #' @param value the default value of the element
 #' @description
 #' Visit the documentation at https://mui.com/api/Autocomplete/ for more information.
-Autocomplete.shinyInput <- input("Autocomplete", defaultValue = T)
+Accordion.shinyInput <- input("Autocomplete", defaultValue = T)
 
 
 #' Slider
